@@ -13,7 +13,7 @@ setup(
     long_description_content_type="text/markdown",
     author="Daniel Berhane Araya",
     author_email="dberhan4@gmu.edu",
-    url="https://github.com/danielberhane/FinVet",  # Updated to your actual repo
+    url="https://github.com/danielberhane/finvet-v1",
     packages=find_packages(where="src"),
     package_dir={"": "src"},
     package_data={
