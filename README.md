@@ -11,18 +11,18 @@ fact-checking. This is the reference implementation for the paper below.
 
 Daniel Berhane Araya and Duoduo Liao. *FinVet: A Collaborative Framework of RAG and External
 Fact-Checking Agents for Financial Misinformation Detection.* IEEE BigData 2025 workshop.
-[arXiv:2510.11654](https://arxiv.org/abs/2510.11654)
+[IEEE Xplore](https://ieeexplore.ieee.org/document/11400848) · [arXiv:2510.11654](https://arxiv.org/abs/2510.11654)
 
 ```bibtex
-@misc{berhanearaya2025finvet,
-  title        = {FinVet: A Collaborative Framework of RAG and External Fact-Checking
-                  Agents for Financial Misinformation Detection},
-  author       = {Berhane Araya, Daniel and Liao, Duoduo},
-  year         = {2025},
-  eprint       = {2510.11654},
-  archivePrefix= {arXiv},
-  primaryClass = {cs.CL},
-  url          = {https://arxiv.org/abs/2510.11654}
+@inproceedings{araya2025finvet,
+  author    = {Berhane Araya, Daniel and Liao, Duoduo},
+  title     = {FinVet: A Collaborative Framework of RAG and External Fact-Checking
+               Agents for Financial Misinformation Detection},
+  booktitle = {2025 IEEE International Conference on Big Data (BigData)},
+  year      = {2025},
+  publisher = {IEEE},
+  address   = {Macau SAR, China},
+  url       = {https://ieeexplore.ieee.org/document/11400848}
 }
 ```
 
