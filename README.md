@@ -15,7 +15,7 @@ Fact-Checking Agents for Financial Misinformation Detection.*
 [IEEE Xplore](https://ieeexplore.ieee.org/document/11400848) · [arXiv:2510.11654](https://arxiv.org/abs/2510.11654)
 
 ```bibtex
-@inproceedings{araya2025finvet,
+@inproceedings{berhanearaya2025finvet,
   author    = {Berhane Araya, Daniel and Liao, Duoduo},
   title     = {FinVet: A Collaborative Framework of RAG and External Fact-Checking
                Agents for Financial Misinformation Detection},
